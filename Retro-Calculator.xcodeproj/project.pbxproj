@@ -14,6 +14,7 @@
 		9E7B9E1B1CD94B8900D2D559 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E7B9E191CD94B8900D2D559 /* LaunchScreen.storyboard */; };
 		9E7B9E261CD94B8900D2D559 /* Retro_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7B9E251CD94B8900D2D559 /* Retro_CalculatorTests.swift */; };
 		9E7B9E311CD94B8900D2D559 /* Retro_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7B9E301CD94B8900D2D559 /* Retro_CalculatorUITests.swift */; };
+		9E7B9E3F1CD95B0700D2D559 /* 8bit16.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E7B9E3E1CD95B0700D2D559 /* 8bit16.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9E7B9E2C1CD94B8900D2D559 /* Retro-CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Retro-CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E7B9E301CD94B8900D2D559 /* Retro_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Retro_CalculatorUITests.swift; sourceTree = "<group>"; };
 		9E7B9E321CD94B8900D2D559 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E7B9E3E1CD95B0700D2D559 /* 8bit16.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = 8bit16.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		9E7B9E0F1CD94B8900D2D559 /* Retro-Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				9E7B9E3E1CD95B0700D2D559 /* 8bit16.ttf */,
 				9E7B9E101CD94B8900D2D559 /* AppDelegate.swift */,
 				9E7B9E121CD94B8900D2D559 /* ViewController.swift */,
 				9E7B9E141CD94B8900D2D559 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E7B9E3F1CD95B0700D2D559 /* 8bit16.ttf in Resources */,
 				9E7B9E1B1CD94B8900D2D559 /* LaunchScreen.storyboard in Resources */,
 				9E7B9E181CD94B8900D2D559 /* Assets.xcassets in Resources */,
 				9E7B9E161CD94B8900D2D559 /* Main.storyboard in Resources */,
