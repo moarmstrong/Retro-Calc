@@ -14,6 +14,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var outputLbl: UILabel!
     
     var btnSound: AVAudioPlayer!
+    
+    var runningNumber = ""
 
     override func viewDidLoad() {
         super.viewDidLoad()
