@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     var btnSound: AVAudioPlayer!
     
     var runningNumber = ""
+    var leftValStr = ""
+    var rightValStr = ""
 
     override func viewDidLoad() {
         super.viewDidLoad()
