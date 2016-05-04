@@ -48,6 +48,8 @@ class ViewController: UIViewController {
     
     @IBAction func numberPressed(btn: UIButton!) {
         btnSound.play()
+        
+        runningNumber += "\(btn.tag)"
     }
     @IBAction func onDividePressed(sender: AnyObject) {
     }

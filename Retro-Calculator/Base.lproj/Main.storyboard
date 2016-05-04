@@ -273,6 +273,9 @@
                             <constraint firstItem="wg5-7p-zPT" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="z7L-71-Sye"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="outputLbl" destination="afa-T8-jMv" id="YsO-mt-zX9"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
